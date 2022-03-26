@@ -22,5 +22,6 @@ The API can:
 
 Link to video demonstration: 
 
-* Users and Friends CRUD Guide: 
-* Thoughts and Reactions CRUD Guide: 
+* Users and Friends CRUD Guide: https://watch.screencastify.com/v/3qIf7QfPdoXRvnjFO03p
+* Thoughts and Reactions CRUD Guide: https://watch.screencastify.com/v/aO6G4rlMUMg742cyTLik
+* Thoughts and Reactions CRUD Guide (continued on how to delete a reaction): https://watch.screencastify.com/v/848K8LVQQgmJdRwgvIKq
